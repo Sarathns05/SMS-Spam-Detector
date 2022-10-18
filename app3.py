@@ -39,7 +39,7 @@ def transform_text(text):
 tfidf = pickle.load(open('vectorizer.pkl','rb'))
 model = pickle.load(open('model33.pkl','rb'))
 
-st.title("Email/SMS Spam Classifier")
+st.title("Email/SMS Spam Detector")
 
 input_sms = st.text_area("Enter the message")
 
