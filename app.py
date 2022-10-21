@@ -3,9 +3,6 @@ import pickle
 import string
 from nltk.corpus import stopwords
 import nltk
-import os
-#.chdir("/home/user/PROJECTS/SMS_spam_classifier/app3.py")
-
 from nltk.stem.porter import PorterStemmer
 
 ps = PorterStemmer()
@@ -35,11 +32,10 @@ def transform_text(text):
 
     return " ".join(y)
 
-
 tfidf = pickle.load(open('vectorizer.pkl','rb'))
-model = pickle.load(open('model33.pkl','rb'))
+model = pickle.load(open('model.pkl','rb'))
 
-st.title("Email/SMS Spam Detector")
+st.title("Email/SMS Spam Classifier")
 
 input_sms = st.text_area("Enter the message")
 
@@ -54,5 +50,5 @@ if st.button('Predict'):
     # 4. Display
     if result == 1:
         st.header("Spam")
-    elif result==0:
+    else:
         st.header("Not Spam")
