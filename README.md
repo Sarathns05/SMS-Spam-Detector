@@ -1,5 +1,5 @@
 
-# SMS/Email Spam Classifier 
+# SMS/Email Spam Detector 
 
 With the increase in online consumption of products and services, consumers are facing a huge problem of abundance of spam message in their inbox which are either promotional based aur frauds. But due to this the messages/Email which are of much importance are squashed under the spam messages.
 
