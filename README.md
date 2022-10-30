@@ -35,7 +35,6 @@ To deploy this project run
 ```
 #### Find the Deployed website [here](https://sms-spam-finder.herokuapp.com/)
 
-### USER INTERFACE :
 
 ![Screenshot from 2022-10-18 11-10-05](https://user-images.githubusercontent.com/108679625/197694106-3ee33b32-2709-4e7f-845c-57d6b787a006.png)
 
