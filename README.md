@@ -39,14 +39,19 @@ Here we are going to create an Streamlit app to predict whether an SMS is spam o
 - check the notebook [here](https://github.com/Sarathns05/SMS-Spam-Detector/blob/main/sms_spam_classification.ipynb)
 
 
-## Run the website 🚀
+## Deployment on streamlit
 
-To deploy this project run
+To deploy this project on streamlit, follow these steps:
 
-```bash
-  streamlit run app.py
+  - first, make sure you upload your files on Github, including a requirements.txt file
+  - go to streamlit share and login with Github, Google, etc.
+    click on new app button
+    select the Github repo name, branch, python file with the streamlit codes
+    click advanced settings, select python version 3.9 and add the secret keys if your model is stored on AWS or GCP bucket
+    then save and deploy
+
 ```
-#### Find the Deployed website [here](https://sms-spam-finder.herokuapp.com/)
+ Find the Deployed website [here](https://sms-spam-finder.herokuapp.com/)
 
 
 ![Screenshot from 2022-10-18 11-10-05](https://user-images.githubusercontent.com/108679625/197694106-3ee33b32-2709-4e7f-845c-57d6b787a006.png)
