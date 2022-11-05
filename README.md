@@ -1,6 +1,8 @@
 
 # SMS/Email Spam Detector 
 
+![sms-spam-Logo](https://user-images.githubusercontent.com/108679625/200128439-597c3b5c-636d-4601-ae85-b55c9d36713a.png)
+
 With the increase in online consumption of products and services, consumers are facing a huge problem of abundance of spam message in their inbox which are either promotional based aur frauds. But due to this the messages/Email which are of much importance are squashed under the spam messages.
 
 In this article, we are going to create an SMS spam detection model which will help you to find whether an SMS is spam or not using Naive Bayes and Natural Language Processing(NLP). 
