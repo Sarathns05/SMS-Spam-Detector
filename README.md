@@ -44,7 +44,7 @@ Here we are going to create an Streamlit app to predict whether an SMS is spam o
 To deploy this project on streamlit, follow these steps:
 
   - first, make sure you upload your files on Github, including a requirements.txt file
-  - go to streamlit share and login with Github, Google, etc.
+  - Go to streamlit share and login with Github, Google, etc.
   - By using Streamlit create user interface
   - Finally deploye the entire application on Heroku by adding - Procfile (informs Heroku that which application is to be run first), Requirements
     (notifies Heroku about the libraries that needs to be installed before deploying or running our application)
