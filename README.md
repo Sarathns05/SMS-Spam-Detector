@@ -8,25 +8,25 @@ Here we are going to create an Streamlit app to find whether an SMS is spam or n
 ## Data Source
 
 
-# Table of Content
+## Methods
 
-- #### Gathering and loading Data
+- Gathering and loading Data
 
-- #### Data Cleaning
+- Data Cleaning
 
-- #### Exploratory Data Analysis
+- Exploratory Data Analysis
 
-- #### Data Preprocessing -- Vectorization, stemming, removing stop words
+- Data Preprocessing -- Vectorization, stemming, removing stop words
 
-- #### Building a Model
+- Building a Model
 
-- #### Evaluate the Model
+- Evaluate the Model
 
-- #### Improve the Model
+- Improve the Model
 
-- #### Convert to a website
+- Convert to a website
 
-- #### Deployment on Heroku
+- Deployment on Heroku
 
 
 ## Run the website 🚀
