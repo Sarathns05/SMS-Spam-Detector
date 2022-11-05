@@ -28,6 +28,14 @@ Here we are going to create an Streamlit app to find whether an SMS is spam or n
 
 - Deployment on Heroku
 
+## Tech Stack
+
+- Python (refer to requirement.txt for the packages used in this project)
+- Streamlit (interface for the model)
+- Heroku (model storage)
+
+
+
 
 ## Run the website 🚀
 
