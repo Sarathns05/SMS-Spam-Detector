@@ -5,6 +5,7 @@ With the increase in online consumption of products and services, consumers are 
 
 In this article, we are going to create an SMS spam detection model which will help you to find whether an SMS is spam or not using Naive Bayes and Natural Language Processing(NLP). 
 
+
 ## Table of Content
 
 - Gathering and loading Data
