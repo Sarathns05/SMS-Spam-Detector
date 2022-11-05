@@ -45,13 +45,10 @@ To deploy this project on streamlit, follow these steps:
 
   - first, make sure you upload your files on Github, including a requirements.txt file
   - go to streamlit share and login with Github, Google, etc.
-    click on new app button
-    select the Github repo name, branch, python file with the streamlit codes
-    click advanced settings, select python version 3.9 and add the secret keys if your model is stored on AWS or GCP bucket
-    then save and deploy
-
-```
- Find the Deployed website [here](https://sms-spam-finder.herokuapp.com/)
+  - By using Streamlit create user interface
+  - Finally deploye the entire application on Heroku by adding - Procfile (informs Heroku that which application is to be run first), Requirements
+    (notifies Heroku about the libraries that needs to be installed before deploying or running our application)
+  - Find the Deployed website [here](https://sms-spam-finder.herokuapp.com/)
 
 
 ![Screenshot from 2022-10-18 11-10-05](https://user-images.githubusercontent.com/108679625/197694106-3ee33b32-2709-4e7f-845c-57d6b787a006.png)
