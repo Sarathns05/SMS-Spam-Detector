@@ -34,7 +34,9 @@ Here we are going to create an Streamlit app to predict whether an SMS is spam o
 - Streamlit (interface for the model)
 - Heroku (model storage)
 
+## Explore the Notebook
 
+- check the notebook [here](https://github.com/Sarathns05/SMS-Spam-Detector/blob/main/sms_spam_classification.ipynb)
 
 
 ## Run the website 🚀
