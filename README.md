@@ -10,21 +10,21 @@ In this article, we are going to create an SMS spam detection model which will h
 
 - #### Gathering and loading Data
 
-- Data Cleaning
+- #### Data Cleaning
 
-- Exploratory Data Analysis
+- #### Exploratory Data Analysis
 
-- Data Preprocessing -- Vectorization, stemming, removing stop words
+- #### Data Preprocessing -- Vectorization, stemming, removing stop words
 
-- Building a Model
+- #### Building a Model
 
-- Evaluate the Model
+- #### Evaluate the Model
 
-- Improve the Model
+- #### Improve the Model
 
-- Convert to a website
+- #### Convert to a website
 
-- Deployment on Heroku
+- #### Deployment on Heroku
 
 
 ## Run the website 🚀
