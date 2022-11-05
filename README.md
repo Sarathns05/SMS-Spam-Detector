@@ -8,7 +8,7 @@ In this article, we are going to create an SMS spam detection model which will h
 
 ## Table of Content
 
-- Gathering and loading Data
+##### - Gathering and loading Data
 
 - Data Cleaning
 
