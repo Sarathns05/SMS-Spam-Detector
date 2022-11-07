@@ -3,7 +3,7 @@
 
 With the increase in online consumption of products and services, consumers are facing a huge problem of abundance of spam message in their inbox which are either promotional based aur frauds. But due to this the messages/Email which are of much importance are squashed under the spam messages.
 
-Here we are going to create an Streamlit app to predict whether an SMS is spam or not using Naive Bayes and Natural Language Processing(NLP). 
+Here we are going to create an Streamlit app to predict whether an SMS is spam or not using Machine learning algorithms and Natural Language Processing(NLP). 
 
 ## Data Source
 - [Kaggle SMS Spam Detection](https://www.kaggle.com/datasets/tmehul/spamcsv)
