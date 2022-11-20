@@ -45,7 +45,7 @@ To deploy this project on streamlit, follow these steps:
 
   - first, make sure you upload your files on Github, including a requirements.txt file
   - Go to streamlit share and login with Github, Google, etc.
-  - By using Streamlit create user interface
+  - By using Streamlit create user interface.
   - Finally deployed the entire application on Heroku by adding - Procfile (informs Heroku that which application is to be run first), Requirements
     (notifies Heroku about the libraries that needs to be installed before deploying or running our application)
   - Find the Deployed website [here](https://sms-spam-finder.herokuapp.com/)
