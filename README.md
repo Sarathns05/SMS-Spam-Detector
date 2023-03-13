@@ -39,7 +39,7 @@ Here we are going to create an Streamlit app to predict whether an SMS is spam o
 - check the notebook [here](https://github.com/Sarathns05/SMS-Spam-Detector/blob/main/sms_spam_classification.ipynb)
 
 
-## Deployment on streamlit
+## Deployment using streamlit
 
 To deploy this project on streamlit, follow these steps:
 
